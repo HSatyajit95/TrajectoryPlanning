@@ -1,7 +1,7 @@
 
 # Quintic Polynomial Trajectory Planning for Robotic Manipulators
 
-![Robotic Manipulator](https://via.placeholder.com/800x400.png?text=Robotic+Manipulator+Trajectory)
+![Robotic Manipulator]![meca500](https://github.com/user-attachments/assets/8e2dcd7a-4520-42a2-8ae9-7c12691aa8ba)
 
 This repository contains a Python implementation of a **quintic polynomial trajectory planner** for multi-joint robotic manipulators, optimized for minimum time using a **binary search algorithm**. The planner ensures smooth motion by maintaining continuity in position, velocity, and acceleration, while adhering to kinematic constraints like maximum velocity and acceleration. It supports both single-segment and multi-waypoint trajectories, making it versatile for various robotic applications.
 
