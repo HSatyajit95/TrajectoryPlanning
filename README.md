@@ -121,7 +121,7 @@ Contributions are welcome! Feel free to submit issues, fork the repository, or c
 
 ## 📬 Contact
 
-For questions or feedback, reach out via [GitHub Issues](https://github.com/HSatyajit95) or connect with me on [LinkedIn](https://www.linkedin.com/in/hsatyajit25/).
+For questions or feedback, reach out via [GitHub Issues](https://github.com/HSatyajit95/TrajectoryPlanning/issues) or connect with me on [LinkedIn](https://www.linkedin.com/in/hsatyajit25/).
 
 ---
 
