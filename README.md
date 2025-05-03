@@ -1,7 +1,7 @@
 
 # Quintic Polynomial Trajectory Planning for Robotic Manipulators
 
-![Robotic Manipulator]![meca500](https://github.com/user-attachments/assets/8e2dcd7a-4520-42a2-8ae9-7c12691aa8ba)
+![Robotic Manipulator](https://github.com/user-attachments/assets/8e2dcd7a-4520-42a2-8ae9-7c12691aa8ba)
 
 This repository contains a Python implementation of a **quintic polynomial trajectory planner** for multi-joint robotic manipulators, optimized for minimum time using a **binary search algorithm**. The planner ensures smooth motion by maintaining continuity in position, velocity, and acceleration, while adhering to kinematic constraints like maximum velocity and acceleration. It supports both single-segment and multi-waypoint trajectories, making it versatile for various robotic applications.
 
@@ -82,7 +82,7 @@ The planner was tested on a 6-DOF manipulator with the following parameters:
 
 The trajectories were smooth, constraint-compliant, and visualized with clear segment boundaries.
 
-![Multi-Waypoint Trajectory](https://via.placeholder.com/800x400.png?text=Multi-Waypoint+Trajectory)
+![joint_trajectories_multi_waypoints](https://github.com/user-attachments/assets/4e0f78e2-8517-4279-bef2-a2f097d02418)
 
 ## 🔧 Extending to Multi-Waypoint Trajectories
 
@@ -121,7 +121,7 @@ Contributions are welcome! Feel free to submit issues, fork the repository, or c
 
 ## 📬 Contact
 
-For questions or feedback, reach out via [GitHub Issues](https://github.com/placeholder/robotics/issues) or connect with me on [LinkedIn](https://linkedin.com/in/placeholder).
+For questions or feedback, reach out via [GitHub Issues](https://github.com/HSatyajit95) or connect with me on [LinkedIn](https://www.linkedin.com/in/hsatyajit25/).
 
 ---
 
